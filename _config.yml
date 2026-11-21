@@ -21,7 +21,7 @@ title: "Justin Learns Firmware"
 description: "Enjoy reading about my minor successes and major failures while delving into the world of embedded systems and firmware engineering."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://justinchung712.github.io"
-logo: "/images/grad-square.png"
+logo: "/images/holiday-square.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 225
