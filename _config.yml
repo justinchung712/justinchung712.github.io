@@ -18,7 +18,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Justin Learns Firmware"
-description: "Enjoy reading about my minor successes and major failures while delving into the world of embedded systems and firmware engineering."
+description: "A CS grad learns firmware engineering from square one and has no idea what he's doing... okay, maybe only a little bit of an idea of what he's doing."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://justinchung712.github.io"
 logo: "/images/holiday-square.png"
